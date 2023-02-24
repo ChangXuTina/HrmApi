@@ -1,0 +1,17 @@
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.deps.json
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.runtimeconfig.json
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.dll
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.Infrastructure.pdb
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.ApplicationCore.dll
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/bin/Debug/net6.0/Hrm.ApplicationCore.pdb
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.csproj.AssemblyReference.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.AssemblyInfoInputs.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.AssemblyInfo.cs
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.csproj.CopyComplete
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.dll
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/refint/Hrm.Infrastructure.dll
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.pdb
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/Hrm.Infrastructure.genruntimeconfig.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.Infrastructure/obj/Debug/net6.0/ref/Hrm.Infrastructure.dll

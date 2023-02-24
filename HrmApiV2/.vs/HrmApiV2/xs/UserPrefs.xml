@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{E643B53E-DD3B-43C5-A628-83F4C593C6A5}|Default">
+  <MonoDevelop.Ide.ItemProperties.HumanResource.APILayer PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Hrm.Infrastructure FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hrm.ApplicationCore FirstBuild="True" />
+</Properties>

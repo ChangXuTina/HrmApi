@@ -1,0 +1,14 @@
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/bin/Debug/net6.0/Hrm.ApplicationCore.deps.json
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/bin/Debug/net6.0/Hrm.ApplicationCore.runtimeconfig.json
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/bin/Debug/net6.0/Hrm.ApplicationCore.dll
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/bin/Debug/net6.0/Hrm.ApplicationCore.pdb
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.csproj.AssemblyReference.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.AssemblyInfoInputs.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.AssemblyInfo.cs
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.dll
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/refint/Hrm.ApplicationCore.dll
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.pdb
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/Hrm.ApplicationCore.genruntimeconfig.cache
+/Users/changxu/Projects/HrmApiV2/Hrm.ApplicationCore/obj/Debug/net6.0/ref/Hrm.ApplicationCore.dll
